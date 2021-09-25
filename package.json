@@ -1,0 +1,19 @@
+{
+  "name": "kaavya-table",
+  "version": "1.0.0",
+  "description": "Utility to display a mathematical table of n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaav-notabot/kaavya-table.git"
+  },
+  "author": "Kaavya Iyer",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Kaav-notabot/kaavya-table/issues"
+  },
+  "homepage": "https://github.com/Kaav-notabot/kaavya-table#readme"
+}
